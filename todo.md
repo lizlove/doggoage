@@ -17,8 +17,8 @@ Contains
 
 Todo:
 
-1. Build a node app that just surfaces a single page.
-2. Add typescript
-3. Add react
-4. Add linting
-5. Add tests
+- Build a node app that just surfaces a single page.
+- Add typescript
+- Add react
+- Add linting
+- Add scss build
